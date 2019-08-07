@@ -19,3 +19,13 @@ ul {
 ol {
   font-size: 2em;
 }
+
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.redfont{
+  color: red;
+}
