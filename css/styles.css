@@ -29,3 +29,14 @@ ol {
 .redfont{
   color: red;
 }
+
+.light-theme {
+  background-color: white;
+  color: black;
+}
+
+.dark-theme {
+  background-color: black;
+  color: white;
+  
+}
